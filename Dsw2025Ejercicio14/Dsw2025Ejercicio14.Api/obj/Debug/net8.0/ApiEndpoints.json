@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Dsw2025Ejercicio14.Api.Controllers.ProductsController",
+    "Method": "GetActiveProducts",
+    "RelativePath": "api/products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Dsw2025Ejercicio14.Api.Controllers.ProductsController",
+    "Method": "GetProductBySku",
+    "RelativePath": "api/products/{sku}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sku",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\stagingArea\\Dsw2025Ej14-V2\\Dsw2025Ejercicio14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAD599B-2B7C-4110-AFB9-19C68B19CD74}|Dsw2025Ejercicio14.Api\\Dsw2025Ejercicio14.Api.csproj|c:\\workspace\\stagingarea\\dsw2025ej14-v2\\dsw2025ejercicio14\\dsw2025ejercicio14.api\\data\\persistenciaenmemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAD599B-2B7C-4110-AFB9-19C68B19CD74}|Dsw2025Ejercicio14.Api\\Dsw2025Ejercicio14.Api.csproj|solutionrelative:dsw2025ejercicio14.api\\data\\persistenciaenmemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAD599B-2B7C-4110-AFB9-19C68B19CD74}|Dsw2025Ejercicio14.Api\\Dsw2025Ejercicio14.Api.csproj|c:\\workspace\\stagingarea\\dsw2025ej14-v2\\dsw2025ejercicio14\\dsw2025ejercicio14.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAD599B-2B7C-4110-AFB9-19C68B19CD74}|Dsw2025Ejercicio14.Api\\Dsw2025Ejercicio14.Api.csproj|solutionrelative:dsw2025ejercicio14.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAD599B-2B7C-4110-AFB9-19C68B19CD74}|Dsw2025Ejercicio14.Api\\Dsw2025Ejercicio14.Api.csproj|c:\\workspace\\stagingarea\\dsw2025ej14-v2\\dsw2025ejercicio14\\dsw2025ejercicio14.api\\domain\\ipersistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAD599B-2B7C-4110-AFB9-19C68B19CD74}|Dsw2025Ejercicio14.Api\\Dsw2025Ejercicio14.Api.csproj|solutionrelative:dsw2025ejercicio14.api\\domain\\ipersistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAD599B-2B7C-4110-AFB9-19C68B19CD74}|Dsw2025Ejercicio14.Api\\Dsw2025Ejercicio14.Api.csproj|c:\\workspace\\stagingarea\\dsw2025ej14-v2\\dsw2025ejercicio14\\dsw2025ejercicio14.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAD599B-2B7C-4110-AFB9-19C68B19CD74}|Dsw2025Ejercicio14.Api\\Dsw2025Ejercicio14.Api.csproj|solutionrelative:dsw2025ejercicio14.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPersistencia.cs",
+              "DocumentMoniker": "C:\\Workspace\\stagingArea\\Dsw2025Ej14-V2\\Dsw2025Ejercicio14\\Dsw2025Ejercicio14.Api\\Domain\\IPersistencia.cs",
+              "RelativeDocumentMoniker": "Dsw2025Ejercicio14.Api\\Domain\\IPersistencia.cs",
+              "ToolTip": "C:\\Workspace\\stagingArea\\Dsw2025Ej14-V2\\Dsw2025Ejercicio14\\Dsw2025Ejercicio14.Api\\Domain\\IPersistencia.cs",
+              "RelativeToolTip": "Dsw2025Ejercicio14.Api\\Domain\\IPersistencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T07:15:01.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersistenciaEnMemoria.cs",
+              "DocumentMoniker": "C:\\Workspace\\stagingArea\\Dsw2025Ej14-V2\\Dsw2025Ejercicio14\\Dsw2025Ejercicio14.Api\\Data\\PersistenciaEnMemoria.cs",
+              "RelativeDocumentMoniker": "Dsw2025Ejercicio14.Api\\Data\\PersistenciaEnMemoria.cs",
+              "ToolTip": "C:\\Workspace\\stagingArea\\Dsw2025Ej14-V2\\Dsw2025Ejercicio14\\Dsw2025Ejercicio14.Api\\Data\\PersistenciaEnMemoria.cs",
+              "RelativeToolTip": "Dsw2025Ejercicio14.Api\\Data\\PersistenciaEnMemoria.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T07:07:22.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Workspace\\stagingArea\\Dsw2025Ej14-V2\\Dsw2025Ejercicio14\\Dsw2025Ejercicio14.Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Dsw2025Ejercicio14.Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Workspace\\stagingArea\\Dsw2025Ej14-V2\\Dsw2025Ejercicio14\\Dsw2025Ejercicio14.Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Dsw2025Ejercicio14.Api\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T06:01:13.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace\\stagingArea\\Dsw2025Ej14-V2\\Dsw2025Ejercicio14\\Dsw2025Ejercicio14.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Dsw2025Ejercicio14.Api\\Program.cs",
+              "ToolTip": "C:\\Workspace\\stagingArea\\Dsw2025Ej14-V2\\Dsw2025Ejercicio14\\Dsw2025Ejercicio14.Api\\Program.cs",
+              "RelativeToolTip": "Dsw2025Ejercicio14.Api\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T06:00:43.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

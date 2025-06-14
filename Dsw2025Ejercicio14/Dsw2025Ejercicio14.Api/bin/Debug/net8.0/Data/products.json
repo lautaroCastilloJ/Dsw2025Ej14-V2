@@ -1,0 +1,62 @@
+[
+  {
+    "sku": "7798186031828",
+    "name": "CARAMELO MASTICABLE DROPSY X700G",
+    "currentUnitPrice": 6292.6,
+    "isActive": true
+  },
+  {
+    "sku": "7798290580052",
+    "name": "JUGO TUTTI NARANJA X200ML X1U",
+    "currentUnitPrice": 194.4,
+    "isActive": true
+  },
+  {
+    "sku": "7798197300265",
+    "name": "TOSTADA DE ARROZ DULCE X150G",
+    "currentUnitPrice": 921.2,
+    "isActive": false
+  },
+  {
+    "sku": "7798186032825",
+    "name": "CONFITE BILLIKEN X50G",
+    "currentUnitPrice": 1380,
+    "isActive": true
+  },
+  {
+    "sku": "7798228640261",
+    "name": "BARRA DE ARROZ CROWIE X12G",
+    "currentUnitPrice": 358.4,
+    "isActive": true
+  },
+  {
+    "sku": "7798180670016",
+    "name": "TUTUCA COLOR X30U",
+    "currentUnitPrice": 3464.4,
+    "isActive": true
+  },
+  {
+    "sku": "7798186033464",
+    "name": "GOMITA BILLIKEN 12UX30G",
+    "currentUnitPrice": 7322.6,
+    "isActive": false
+  },
+  {
+    "sku": "7798228640353",
+    "name": "MIX FRUTOS CHEVERE X30G",
+    "currentUnitPrice": 1088.8,
+    "isActive": true
+  },
+  {
+    "sku": "7798178802306",
+    "name": "BUDIN DOS EN UNO C/FRUTA X150G",
+    "currentUnitPrice": 1478.6,
+    "isActive": true
+  },
+  {
+    "sku": "7798180700126",
+    "name": "DISCO CROCANTE CHOCOLATE X60G",
+    "currentUnitPrice": 2139.2,
+    "isActive": true
+  }
+]
