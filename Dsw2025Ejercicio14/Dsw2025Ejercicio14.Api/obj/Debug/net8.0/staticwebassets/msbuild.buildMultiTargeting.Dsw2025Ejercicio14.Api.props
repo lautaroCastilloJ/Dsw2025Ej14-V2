@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Dsw2025Ejercicio14.Api.props" />
+</Project>
